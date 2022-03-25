@@ -180,6 +180,16 @@ form {
 .vk button {
     color: #5a7ece;
 }
+.group {
+    background: #fff;
+    color: #000;
+    margin-left: 30px;
+    height: 35px;
+    min-width: 200px;
+    border-radius: 50px;
+    text-align: center;
+    padding: 5px;
+}
 
 .content {
     display: flex;
